@@ -1,0 +1,7 @@
+{
+  "name": "Travel & Tours NZ",
+  "description": "A premium travel and tour landing page for travelntours.co.nz, featuring AI-powered personalized itinerary planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
